@@ -1,11 +1,10 @@
 {
-    "name": "laravelcollective/html",
+    "name": "phparch/laravel-form-helper",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
-    "homepage": "https://laravelcollective.com",
     "support": {
-        "issues": "https://github.com/LaravelCollective/html/issues",
-        "source": "https://github.com/LaravelCollective/html"
+        "issues": "https://github.com/phparch/laravel-form-helper/issues",
+        "source": "https://github.com/phparch/laravel-form-helper"
     },
     "authors": [
         {
@@ -53,6 +52,5 @@
         }
     },
     "minimum-stability": "dev",
-    "abandoned": "spatie/laravel-html",
     "prefer-stable": true
 }
